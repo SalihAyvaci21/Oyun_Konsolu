@@ -1,0 +1,4 @@
+impl/ 
+temp/ 
+*.vo 
+*.vcd 
